@@ -37,10 +37,14 @@ namespace Vista_Seguridad
             {
                 Controlador.Username = Controlador.SetHash(TBusuario.Text);
 
-               
-                Menup b = new Menup();
-                cn.setBtitacora("1", "Ingreso Login");
-                b.Show();
+                /*
+                 Menup b = new Menup();
+                 cn.setBtitacora("1", "Ingreso Login");
+                 b.Show();
+                 this.Hide();
+                */
+                Principal P = new Principal();
+                P.Show();
                 this.Hide();
 
                /* if (cn.getAccesoModulos(1000))
