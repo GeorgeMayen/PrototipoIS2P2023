@@ -1,0 +1,6 @@
+C:\Users\Mayén Ramírez\Desktop\Proyecto IS\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.dll
+C:\Users\Mayén Ramírez\Desktop\Proyecto IS\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\bin\Debug\Modelo_Seguridad.pdb
+C:\Users\Mayén Ramírez\Desktop\Proyecto IS\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\Mayén Ramírez\Desktop\Proyecto IS\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.dll
+C:\Users\Mayén Ramírez\Desktop\Proyecto IS\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.pdb
+C:\Users\Mayén Ramírez\Desktop\Proyecto IS\proyectois2k23\Codigo\Componentes\Seguridad\Colchoneria\Modelo\obj\Debug\Modelo_Seguridad.csproj.AssemblyReference.cache
