@@ -1,0 +1,29 @@
+commit ada21193aea8cce9fdbbd92ebb7bae469143d0a2
+Author: George <gmayenr@miumg.edu.gt>
+Date:   Thu Apr 20 12:20:06 2023 -0600
+
+    Modificando formulario
+
+commit 7b144d27536ca83acf7b80095a4dc750e6dc64f6
+Author: George <gmayenr@miumg.edu.gt>
+Date:   Thu Apr 20 11:59:01 2023 -0600
+
+    Agregando los mantenimientos
+
+commit 01e5e7803fd08d5e79f5d16fcea68725d14ca469
+Author: George <gmayenr@miumg.edu.gt>
+Date:   Thu Apr 20 11:39:49 2023 -0600
+
+    Agregando base de datos
+
+commit 9c68486a3847e3ba3a5896401d5d55181d1e1073
+Author: George <gmayenr@miumg.edu.gt>
+Date:   Thu Apr 20 11:31:36 2023 -0600
+
+    Agregando las primeras funcionalidades
+
+commit 07bb7fd4ce0e0b26cfbf07a7b6ade40a29f4a9a9
+Author: GeorgeMayen <109248371+GeorgeMayen@users.noreply.github.com>
+Date:   Thu Apr 20 11:29:02 2023 -0600
+
+    Initial commit
